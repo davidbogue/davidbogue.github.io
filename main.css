@@ -4,10 +4,7 @@ body{
     padding: 10px;
     text-align: center;
     color: white;
-    background-image: url("img/aspen_1.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: #0f45a7;
 }
 
 h1 {
